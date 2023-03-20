@@ -1,0 +1,32 @@
+
+.game-body{
+    background: #8ecae6;
+}
+.game-body .button{
+    background: #219ebc;
+    color: #fff;
+    border: none;
+}
+.game-info{
+    background: #219ebc;
+    color: #fff;
+}
+.mainmsg{
+    background: #d4f2e4;
+    color: #0f5132;
+}
+footer{
+    background: black;
+    color: #fff;
+}
+i{
+    color: #ffde34;
+}
+.playbtn{
+    margin-top: -15%;
+    margin-left: 30%;
+    border: none;
+    color: #fff;
+    background: rgb(79, 225, 79);
+    
+}
