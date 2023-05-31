@@ -16,10 +16,6 @@
 
 <br />
 
-### Desktop Preview
-
-![Pricing Card Desktop Demo](./preview.JPG)
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
